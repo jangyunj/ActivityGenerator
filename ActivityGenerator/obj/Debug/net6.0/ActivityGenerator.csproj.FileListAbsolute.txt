@@ -1,0 +1,15 @@
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\bin\Debug\net6.0\ActivityGenerator.exe
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\bin\Debug\net6.0\ActivityGenerator.deps.json
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\bin\Debug\net6.0\ActivityGenerator.runtimeconfig.json
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\bin\Debug\net6.0\ActivityGenerator.dll
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\bin\Debug\net6.0\ActivityGenerator.pdb
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\obj\Debug\net6.0\ActivityGenerator.csproj.AssemblyReference.cache
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\obj\Debug\net6.0\ActivityGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\obj\Debug\net6.0\ActivityGenerator.AssemblyInfoInputs.cache
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\obj\Debug\net6.0\ActivityGenerator.AssemblyInfo.cs
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\obj\Debug\net6.0\ActivityGenerator.csproj.CoreCompileInputs.cache
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\obj\Debug\net6.0\ActivityGenerator.dll
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\obj\Debug\net6.0\refint\ActivityGenerator.dll
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\obj\Debug\net6.0\ActivityGenerator.pdb
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\obj\Debug\net6.0\ActivityGenerator.genruntimeconfig.cache
+C:\Users\hwait\Desktop\C#\ActivityGenerator\ActivityGenerator\obj\Debug\net6.0\ref\ActivityGenerator.dll
